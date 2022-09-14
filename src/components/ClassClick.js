@@ -3,6 +3,7 @@ import React, { Component } from "react";
 class ClassClick extends Component {
   clickHandler() {
     console.log("I am a class click handler");
+    console.log("I am a class click handler");
   }
   render() {
     return (
